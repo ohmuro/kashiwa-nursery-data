@@ -1,0 +1,7521 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "updatedAt": "2026-04",
+    "listTitle": "令和8年度5月状況（5月1日現在）（PDF：267KB）",
+    "pdfURL": "https://www.city.kashiwa.lg.jp/documents/468/aki0805.pdf",
+    "generatedAt": "2026-04-28T13:44:28.145507+09:00"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "柏こばと学園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-270",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 7,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953934,
+          35.887486
+        ]
+      },
+      "properties": {
+        "name": "柏の葉こども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二363-48",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950012,
+          35.885395
+        ]
+      },
+      "properties": {
+        "name": "柏の葉はぐくみこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二370-84",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964752,
+          35.831596
+        ]
+      },
+      "properties": {
+        "name": "柏みどりこども園",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市東中新宿3丁目23-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 17
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 20
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.00325,
+          35.843163
+        ]
+      },
+      "properties": {
+        "name": "認定こども園おおつがおかようちえん",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大津ヶ丘1-44",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "認定こども園きたかしわ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-61",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954956,
+          35.868622
+        ]
+      },
+      "properties": {
+        "name": "認定こども園くるみこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季台1丁目1-113",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964615,
+          35.902344
+        ]
+      },
+      "properties": {
+        "name": "認定こども園たなか幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1263",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.98645,
+          35.88113
+        ]
+      },
+      "properties": {
+        "name": "認定こども園とみせ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市根戸351-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.976868,
+          35.885696
+        ]
+      },
+      "properties": {
+        "name": "認定こども園まつがさきの森幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市松ヶ崎225-3",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.966064,
+          35.889618
+        ]
+      },
+      "properties": {
+        "name": "認定こども園まつばようちえん",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市松葉町5-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.961823,
+          35.910542
+        ]
+      },
+      "properties": {
+        "name": "認定こども園みくになかよしこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室3丁目15-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.969269,
+          35.861034
+        ]
+      },
+      "properties": {
+        "name": "認定こども園みくに学園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町1丁目6-14",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980789,
+          35.854118
+        ]
+      },
+      "properties": {
+        "name": "認定こども園ホザナ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市東3丁目2-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.984436,
+          35.85487
+        ]
+      },
+      "properties": {
+        "name": "認定こども園吉田幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市弥生町4-6",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 9,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 11,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 11,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 8,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.018005,
+          35.846817
+        ]
+      },
+      "properties": {
+        "name": "認定こども園手賀の丘幼稚園・保育園",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市五條谷423-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.981155,
+          35.803566
+        ]
+      },
+      "properties": {
+        "name": "認定こども園晴山幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台4-1-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.99971,
+          35.890934
+        ]
+      },
+      "properties": {
+        "name": "認定こども園柏ひがし幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市布施新町1丁目5-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.970749,
+          35.853165
+        ]
+      },
+      "properties": {
+        "name": "認定こども園柏めぐみ園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若葉町7丁目17",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.974152,
+          35.822052
+        ]
+      },
+      "properties": {
+        "name": "認定こども園第二ますお幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市増尾台4-6-60",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956146,
+          35.858479
+        ]
+      },
+      "properties": {
+        "name": "認定こども園豊四季幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町7-4-58",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963608,
+          35.841431
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY 新柏",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊住1-3-27",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 10
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.959717,
+          35.914139
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY 柏たなか",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市小青田5-8-3",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.968597,
+          35.839211
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY 第二新柏",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市新柏1丁目1810-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.94754,
+          35.861713
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY 豊四季",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季301-89",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.001144,
+          35.808697
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY 高柳",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳1493-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953995,
+          35.891659
+        ]
+      },
+      "properties": {
+        "name": "Gakkenほいくえん柏の葉",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴227-6",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 7,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "LIFE SCHOOL 柏の葉菜",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-308",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954407,
+          35.915173
+        ]
+      },
+      "properties": {
+        "name": "TXかしわこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市船戸3-1-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.998642,
+          35.838024
+        ]
+      },
+      "properties": {
+        "name": "あいみ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大津ヶ丘3丁目3-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.962677,
+          35.905537
+        ]
+      },
+      "properties": {
+        "name": "あんのん保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1052-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954285,
+          35.8503
+        ]
+      },
+      "properties": {
+        "name": "うぃず南柏保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市新富町1丁目2-39",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.938614,
+          35.913265
+        ]
+      },
+      "properties": {
+        "name": "おお田保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大青田1507-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 10,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.957535,
+          35.914562
+        ]
+      },
+      "properties": {
+        "name": "かしわSMILEこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市小青田3-6-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.958466,
+          35.903023
+        ]
+      },
+      "properties": {
+        "name": "かしわおおむろこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室162-35",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953995,
+          35.891659
+        ]
+      },
+      "properties": {
+        "name": "かしわきゃんぱすこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴378番地16",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 8,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.957535,
+          35.914562
+        ]
+      },
+      "properties": {
+        "name": "かしわたなかこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市小青田3丁目6-18",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.977325,
+          35.846737
+        ]
+      },
+      "properties": {
+        "name": "かしわなどがやこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市名戸ヶ谷1丁目7番24号",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 7,
+              "isFlexible": false
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950867,
+          35.890732
+        ]
+      },
+      "properties": {
+        "name": "かしわのはこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴280-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.98645,
+          35.88113
+        ]
+      },
+      "properties": {
+        "name": "きたかしわこころ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市根戸1298番地4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.951508,
+          35.895351
+        ]
+      },
+      "properties": {
+        "name": "さくらさくみらい 柏の葉",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴178番地4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950867,
+          35.890732
+        ]
+      },
+      "properties": {
+        "name": "つじなか柏の葉保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴278-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.996841,
+          35.86277
+        ]
+      },
+      "properties": {
+        "name": "とばり保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市戸張1588-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.937103,
+          35.887619
+        ]
+      },
+      "properties": {
+        "name": "ひかり隣保館保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二175-42",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 7,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.958923,
+          35.907192
+        ]
+      },
+      "properties": {
+        "name": "ひなた保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1-5-4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.952316,
+          35.891357
+        ]
+      },
+      "properties": {
+        "name": "まなびの森プチ・ナーサリー柏の葉保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴276-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.939255,
+          35.867054
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園豊四季",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季185-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953384,
+          35.893162
+        ]
+      },
+      "properties": {
+        "name": "まなびの森柏の葉キャンパス保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴173-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.000275,
+          35.814751
+        ]
+      },
+      "properties": {
+        "name": "みなみ高柳保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳1337-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 7,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.952881,
+          35.896526
+        ]
+      },
+      "properties": {
+        "name": "めばえ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴226番地14",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.96962,
+          35.861557
+        ]
+      },
+      "properties": {
+        "name": "ら・くれしゅ柏駅前保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町1丁目6-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.95343,
+          35.913128
+        ]
+      },
+      "properties": {
+        "name": "アイグラン保育園柏たなか駅前",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市小青田2丁目8-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950012,
+          35.885395
+        ]
+      },
+      "properties": {
+        "name": "オハナゆめ保育園柏の葉",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二348-130",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9758,
+          35.829884
+        ]
+      },
+      "properties": {
+        "name": "キッズエンカレッジ",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市加賀3丁目23-6",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.967896,
+          35.840088
+        ]
+      },
+      "properties": {
+        "name": "ニチイキッズ柏保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市新柏1丁目13-9",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983963,
+          35.819145
+        ]
+      },
+      "properties": {
+        "name": "ニチイキッズ逆井みなみ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市逆井5丁目15-19",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954163,
+          35.845764
+        ]
+      },
+      "properties": {
+        "name": "ピノキオ幼児舎南柏保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市南柏1丁目6-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.976471,
+          35.865334
+        ]
+      },
+      "properties": {
+        "name": "ミアヘルサ保育園ひびきかしわ",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏6丁目8-37",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980453,
+          35.846519
+        ]
+      },
+      "properties": {
+        "name": "ヴィヴァン亀甲台保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市亀甲台町2丁目13-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.973465,
+          35.837246
+        ]
+      },
+      "properties": {
+        "name": "ヴィヴァン保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市新柏2丁目6-4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950058,
+          35.902401
+        ]
+      },
+      "properties": {
+        "name": "北の杜保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市正連寺434-26",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.987747,
+          35.874538
+        ]
+      },
+      "properties": {
+        "name": "北柏駅前保育園わらび",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市北柏3丁目2-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956268,
+          35.855247
+        ]
+      },
+      "properties": {
+        "name": "吉野沢保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊平町11-18",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.996445,
+          35.809856
+        ]
+      },
+      "properties": {
+        "name": "咲さく良保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳2丁目6-4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.005264,
+          35.848335
+        ]
+      },
+      "properties": {
+        "name": "咲保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大井1187-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.967316,
+          35.871674
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミー柏しこだの森保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市篠籠田573-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.975479,
+          35.861904
+        ]
+      },
+      "properties": {
+        "name": "巻石堂さくら保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏3丁目10-28",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.975784,
+          35.864044
+        ]
+      },
+      "properties": {
+        "name": "柏ECEC保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏6丁目4-26",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.974075,
+          35.814392
+        ]
+      },
+      "properties": {
+        "name": "柏さかさい保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市逆井1377-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 21
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.948059,
+          35.856735
+        ]
+      },
+      "properties": {
+        "name": "柏しんとみ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季336-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964767,
+          35.832417
+        ]
+      },
+      "properties": {
+        "name": "柏みどり保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東中新宿3丁目23-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 19
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980316,
+          35.831467
+        ]
+      },
+      "properties": {
+        "name": "柏コスモス保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市増尾6-25-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.965912,
+          35.864834
+        ]
+      },
+      "properties": {
+        "name": "柏中央保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市明原1丁目2-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.955124,
+          35.84409
+        ]
+      },
+      "properties": {
+        "name": "柏保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市南柏中央6丁目5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950058,
+          35.912865
+        ]
+      },
+      "properties": {
+        "name": "船戸ブロッサム保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市船戸1-5-24",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.96611,
+          35.901459
+        ]
+      },
+      "properties": {
+        "name": "花の井保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1285-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.992828,
+          35.891518
+        ]
+      },
+      "properties": {
+        "name": "西口保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市布施1211-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953125,
+          35.86795
+        ]
+      },
+      "properties": {
+        "name": "豊四季はぐくみ保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市篠籠田1082-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.96373,
+          35.824142
+        ]
+      },
+      "properties": {
+        "name": "酒井根ひがし保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市酒井根1丁目11-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.971741,
+          35.868755
+        ]
+      },
+      "properties": {
+        "name": "あけぼの保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市あけぼの3丁目4-18",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956451,
+          35.872932
+        ]
+      },
+      "properties": {
+        "name": "しこだ保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市篠籠田1275-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.984299,
+          35.8465
+        ]
+      },
+      "properties": {
+        "name": "名戸ヶ谷保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市名戸ケ谷683-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.975937,
+          35.812462
+        ]
+      },
+      "properties": {
+        "name": "土南部保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市逆井1305-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980972,
+          35.829178
+        ]
+      },
+      "properties": {
+        "name": "増尾保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市増尾6丁目6-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.992371,
+          35.887886
+        ]
+      },
+      "properties": {
+        "name": "富勢保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市布施834-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.933334,
+          35.866627
+        ]
+      },
+      "properties": {
+        "name": "富士見保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季126-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960526,
+          35.855865
+        ]
+      },
+      "properties": {
+        "name": "旭町保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町5丁目3-25",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960022,
+          35.83075
+        ]
+      },
+      "properties": {
+        "name": "東中新宿保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東中新宿4丁目5-24",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.982544,
+          35.857548
+        ]
+      },
+      "properties": {
+        "name": "東町保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東2丁目1-27",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.969635,
+          35.889751
+        ]
+      },
+      "properties": {
+        "name": "松葉保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市松葉町4丁目11",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.981201,
+          35.861279
+        ]
+      },
+      "properties": {
+        "name": "桜台保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市桜台9丁目6",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956512,
+          35.900539
+        ]
+      },
+      "properties": {
+        "name": "田中保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市正連寺100",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.972198,
+          35.853676
+        ]
+      },
+      "properties": {
+        "name": "若葉保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若葉町4丁目36",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.915939,
+          35.898586
+        ]
+      },
+      "properties": {
+        "name": "西原保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市西原1丁目4-20",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964066,
+          35.838364
+        ]
+      },
+      "properties": {
+        "name": "豊住保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊住3丁目1-43",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.957901,
+          35.864807
+        ]
+      },
+      "properties": {
+        "name": "豊四季保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季台2丁目1-120",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 8,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.961731,
+          35.847054
+        ]
+      },
+      "properties": {
+        "name": "豊町保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季698-28",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960297,
+          35.820358
+        ]
+      },
+      "properties": {
+        "name": "酒井根保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市酒井根4丁目10-33",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 17
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.000992,
+          35.807087
+        ]
+      },
+      "properties": {
+        "name": "高柳保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳1503-9",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 10
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983536,
+          35.80621
+        ]
+      },
+      "properties": {
+        "name": "高柳西保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台5丁目31-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.985291,
+          35.882328
+        ]
+      },
+      "properties": {
+        "name": "高野台保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市根戸416-67",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956268,
+          35.866051
+        ]
+      },
+      "properties": {
+        "name": "Gakken ほいくえん 柏豊四季台",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季台1丁目3-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954285,
+          35.8503
+        ]
+      },
+      "properties": {
+        "name": "うぃず南柏第二保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市新富町1-2-39",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.976273,
+          35.860672
+        ]
+      },
+      "properties": {
+        "name": "よしだベビーハウス",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏3丁目11-27",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.95723,
+          35.847111
+        ]
+      },
+      "properties": {
+        "name": "アルタベビー南柏園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊町1-1-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.975555,
+          35.863529
+        ]
+      },
+      "properties": {
+        "name": "アルタベビー柏園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏4-6-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.951508,
+          35.895351
+        ]
+      },
+      "properties": {
+        "name": "オハナゆめキッズハウス柏の葉チコル",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴178-4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.000992,
+          35.807087
+        ]
+      },
+      "properties": {
+        "name": "キッズルームアリス高柳保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳1498-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.958923,
+          35.880428
+        ]
+      },
+      "properties": {
+        "name": "チェリーガーデン",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二248-126",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "チャイルドホーム柏",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.968567,
+          35.864803
+        ]
+      },
+      "properties": {
+        "name": "保育ルームフェリーチェ柏園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市明原2-6-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.961624,
+          35.831932
+        ]
+      },
+      "properties": {
+        "name": "保育室みどりの木",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東中新宿1-23-16",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.987381,
+          35.875084
+        ]
+      },
+      "properties": {
+        "name": "北柏小規模保育園わらび",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市北柏1丁目1-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.981216,
+          35.804287
+        ]
+      },
+      "properties": {
+        "name": "晴山の森",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台5-47-4",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 8
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "柏こばと保育園ぷりん",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-273",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.952316,
+          35.891357
+        ]
+      },
+      "properties": {
+        "name": "柏の葉みらい保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴277-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.953995,
+          35.891659
+        ]
+      },
+      "properties": {
+        "name": "柏の葉わんぱくの杜保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴264-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.970428,
+          35.860168
+        ]
+      },
+      "properties": {
+        "name": "柏サンフラワー保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市中央町2-12",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.973129,
+          35.864189
+        ]
+      },
+      "properties": {
+        "name": "童夢ガーデン柏保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市柏4-10-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956146,
+          35.858479
+        ]
+      },
+      "properties": {
+        "name": "豊四季みんなの保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町7-4-58",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.956146,
+          35.858479
+        ]
+      },
+      "properties": {
+        "name": "豊四季もりの保育園",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町7丁目4-58",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    }
+  ]
+}
