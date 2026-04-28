@@ -1,12 +1,796 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "updatedAt": "2026-05",
-    "listTitle": "令和8年度5月状況",
-    "pdfURL": "https://www.city.kashiwa.lg.jp/documents/468/aki0805.pdf",
-    "generatedAt": "2026-04-28T13:53:57.715101+09:00"
+    "updatedAt": "2025-11",
+    "listTitle": "令和7年度11月状況",
+    "pdfURL": "https://www.city.kashiwa.lg.jp/documents/468/aki0711.pdf",
+    "generatedAt": "2026-04-28T13:53:55.015962+09:00"
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "きたかしわ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-61",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960663,
+          35.842854
+        ]
+      },
+      "properties": {
+        "name": "くりの木幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季633-15",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 18
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954956,
+          35.868622
+        ]
+      },
+      "properties": {
+        "name": "くるみこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季台1丁目1-113",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 24
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.947693,
+          35.89146
+        ]
+      },
+      "properties": {
+        "name": "こばとこどもえんネスト",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市中十余二207-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964615,
+          35.902344
+        ]
+      },
+      "properties": {
+        "name": "たなか幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1263",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.98645,
+          35.88113
+        ]
+      },
+      "properties": {
+        "name": "とみせ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市根戸351-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 14
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 10
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.976868,
+          35.885696
+        ]
+      },
+      "properties": {
+        "name": "まつがさきの森幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市松ヶ崎225-3",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.966064,
+          35.889618
+        ]
+      },
+      "properties": {
+        "name": "まつばようちえん",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市松葉町5-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.961823,
+          35.910542
+        ]
+      },
+      "properties": {
+        "name": "みくになかよしこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室3丁目15-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.969269,
+          35.861034
+        ]
+      },
+      "properties": {
+        "name": "みくに学園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町1丁目6-14",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 48
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 21
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 9
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980789,
+          35.854118
+        ]
+      },
+      "properties": {
+        "name": "ホザナ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市東3丁目2-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.018005,
+          35.846817
+        ]
+      },
+      "properties": {
+        "name": "手賀の丘幼稚園・保育園",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市五條谷423-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 16
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.981155,
+          35.803566
+        ]
+      },
+      "properties": {
+        "name": "晴山幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台4-1-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 13
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -25,31 +809,29 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": true
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 3
           },
           {
-            "age": 2,
+            "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 2,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -57,18 +839,18 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           }
         ]
       }
@@ -93,35 +875,37 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -151,37 +935,37 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -189,7 +973,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 4,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -217,191 +1001,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 17
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 20
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.00325,
-          35.843163
-        ]
-      },
-      "properties": {
-        "name": "認定こども園おおつがおかようちえん",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大津ヶ丘1-44",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.963501,
-          35.886028
-        ]
-      },
-      "properties": {
-        "name": "認定こども園きたかしわ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市十余二287-61",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.954956,
-          35.868622
-        ]
-      },
-      "properties": {
-        "name": "認定こども園くるみこども園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市豊四季台1丁目1-113",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
+            "waitlistCount": 16
           },
           {
             "age": 1,
@@ -415,685 +1015,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.964615,
-          35.902344
-        ]
-      },
-      "properties": {
-        "name": "認定こども園たなか幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大室1263",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.98645,
-          35.88113
-        ]
-      },
-      "properties": {
-        "name": "認定こども園とみせ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市根戸351-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.976868,
-          35.885696
-        ]
-      },
-      "properties": {
-        "name": "認定こども園まつがさきの森幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市松ヶ崎225-3",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.966064,
-          35.889618
-        ]
-      },
-      "properties": {
-        "name": "認定こども園まつばようちえん",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市松葉町5-8",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.961823,
-          35.910542
-        ]
-      },
-      "properties": {
-        "name": "認定こども園みくになかよしこども園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大室3丁目15-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.969269,
-          35.861034
-        ]
-      },
-      "properties": {
-        "name": "認定こども園みくに学園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市旭町1丁目6-14",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 8
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 7
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 8
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.980789,
-          35.854118
-        ]
-      },
-      "properties": {
-        "name": "認定こども園ホザナ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市東3丁目2-5",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.984436,
-          35.85487
-        ]
-      },
-      "properties": {
-        "name": "認定こども園吉田幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市弥生町4-6",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "available",
-              "count": 9,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 11,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 11,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 8,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.018005,
-          35.846817
-        ]
-      },
-      "properties": {
-        "name": "認定こども園手賀の丘幼稚園・保育園",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市五條谷423-5",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.981155,
-          35.803566
-        ]
-      },
-      "properties": {
-        "name": "認定こども園晴山幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市しいの木台4-1-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.99971,
-          35.890934
-        ]
-      },
-      "properties": {
-        "name": "認定こども園柏ひがし幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市布施新町1丁目5-10",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
+            "waitlistCount": 9
           },
           {
             "age": 3,
@@ -1129,7 +1051,7 @@
         ]
       },
       "properties": {
-        "name": "認定こども園柏めぐみ園",
+        "name": "柏めぐみ園",
         "category": "certified",
         "supportsStationPickup": false,
         "address": "千葉県柏市若葉町7丁目17",
@@ -1139,37 +1061,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 8
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 5,
@@ -1177,66 +1097,6 @@
               "kind": "closed"
             },
             "waitlistCount": 1
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.974152,
-          35.822052
-        ]
-      },
-      "properties": {
-        "name": "認定こども園第二ますお幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市増尾台4-6-60",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 12
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 8
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 7
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
           }
         ]
       }
@@ -1251,7 +1111,7 @@
         ]
       },
       "properties": {
-        "name": "認定こども園豊四季幼稚園",
+        "name": "豊四季幼稚園",
         "category": "certified",
         "supportsStationPickup": false,
         "address": "千葉県柏市旭町7-4-58",
@@ -1259,23 +1119,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -1321,40 +1183,40 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 28
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 25
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 10
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -1379,25 +1241,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 13
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -1416,7 +1276,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -1443,35 +1303,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 22
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 16
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
@@ -1501,6 +1361,34 @@
           {
             "age": 0,
             "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
               "kind": "available",
               "count": 1,
               "isFlexible": true
@@ -1508,37 +1396,11 @@
             "waitlistCount": 1
           },
           {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -1565,7 +1427,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 14
           },
           {
             "age": 1,
@@ -1579,19 +1441,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1623,20 +1485,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
@@ -1648,9 +1506,7 @@
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1658,7 +1514,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 7,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1667,7 +1523,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 6,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1693,34 +1549,28 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -1728,7 +1578,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 4,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1737,7 +1587,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 10,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1763,32 +1613,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -1800,7 +1648,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -1827,14 +1677,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 12
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 11
           },
           {
             "age": 2,
@@ -1848,21 +1698,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -1889,40 +1737,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 17
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
               "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -1949,42 +1799,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 15
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 12
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 12
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -2007,9 +1857,7 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -2017,7 +1865,7 @@
             "age": 1,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 8,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2025,24 +1873,24 @@
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 10,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 2,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2077,44 +1925,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 13
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 7
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -2139,46 +1987,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -2203,32 +2049,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 8,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "flexible"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -2265,30 +2109,28 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 19
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 7
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -2327,25 +2169,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 7,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 8
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -2364,9 +2204,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -2391,37 +2229,35 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 8
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
             },
             "waitlistCount": 1
           },
           {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -2429,74 +2265,6 @@
             "age": 5,
             "state": {
               "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.98645,
-          35.88113
-        ]
-      },
-      "properties": {
-        "name": "きたかしわこころ保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市根戸1298番地4",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -2523,26 +2291,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 21
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -2556,7 +2326,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -2583,40 +2355,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 11
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -2641,39 +2415,37 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
@@ -2705,11 +2477,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 7,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 1,
@@ -2723,19 +2493,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -2771,40 +2541,40 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 31
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -2829,18 +2599,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 33
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 4
           },
           {
             "age": 2,
@@ -2852,14 +2620,14 @@
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -2893,42 +2661,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 12
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 5
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -2953,7 +2721,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 13
           },
           {
             "age": 1,
@@ -2967,30 +2735,26 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 7
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3015,32 +2779,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 7,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -3077,44 +2839,42 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 22
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -3141,19 +2901,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -3199,18 +2961,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 1
           },
           {
             "age": 2,
@@ -3222,25 +2982,23 @@
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3265,25 +3023,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -3302,7 +3058,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -3329,31 +3087,24 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 11
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 7
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 4,
             "state": {
               "kind": "available",
               "count": 1,
@@ -3362,9 +3113,16 @@
             "waitlistCount": 0
           },
           {
-            "age": 5,
+            "age": 4,
             "state": {
               "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3389,25 +3147,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
-            "waitlistCount": 4
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -3453,40 +3211,40 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 15
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 14
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 1
           }
@@ -3511,18 +3269,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 5
           },
           {
             "age": 2,
@@ -3573,46 +3329,46 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 11
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
-            "age": 5,
+            "age": 4,
             "state": {
               "kind": "flexible"
             },
             "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
           }
         ]
       }
@@ -3635,42 +3391,42 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -3697,14 +3453,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 11
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 16
           },
           {
             "age": 2,
@@ -3718,12 +3474,12 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -3732,7 +3488,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -3755,16 +3511,14 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 1,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -3778,17 +3532,15 @@
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 2,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -3797,7 +3549,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 1,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -3832,21 +3584,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -3887,21 +3637,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -3915,14 +3665,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -3945,32 +3695,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 9
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 9
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -3982,7 +3730,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4009,7 +3757,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 9
           },
           {
             "age": 1,
@@ -4023,19 +3771,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 2
           },
@@ -4044,7 +3792,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4067,25 +3815,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 8
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 4
           },
           {
             "age": 3,
@@ -4097,18 +3843,18 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -4133,33 +3879,33 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 46
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 31
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -4193,81 +3939,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 5
           },
           {
             "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 17
+          },
+          {
+            "age": 2,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 3
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.974075,
-          35.814392
-        ]
-      },
-      "properties": {
-        "name": "柏さかさい保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市逆井1377-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 21
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 12
           },
           {
             "age": 3,
@@ -4298,6 +3984,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.974075,
+          35.814392
+        ]
+      },
+      "properties": {
+        "name": "柏さかさい保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市逆井1377-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 34
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 21
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.948059,
           35.856735
         ]
@@ -4311,46 +4057,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4377,21 +4121,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 37
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 19
+            "waitlistCount": 26
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 4
           },
           {
             "age": 3,
@@ -4437,44 +4181,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 24
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 15
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4499,28 +4243,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 16
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 11
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 4,
@@ -4534,7 +4278,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -4559,42 +4303,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 31
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 28
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -4619,14 +4363,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -4638,23 +4382,23 @@
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4679,44 +4423,42 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4741,25 +4483,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4807,14 +4547,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 13
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -4828,14 +4568,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -4865,30 +4605,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 15
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
@@ -4902,7 +4642,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4925,18 +4665,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
@@ -4956,7 +4694,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -4991,24 +4729,17 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
             "state": {
               "kind": "available",
               "count": 1,
@@ -5017,16 +4748,27 @@
             "waitlistCount": 0
           },
           {
-            "age": 4,
+            "age": 3,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5053,34 +4795,34 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 11
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5088,7 +4830,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5115,44 +4859,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 24
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 19
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 5
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -5177,35 +4921,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 13
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -5237,16 +4981,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 2,
@@ -5258,24 +5000,24 @@
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 9,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5303,30 +5045,26 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 6
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5334,7 +5072,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 6,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5343,7 +5081,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 6,
+              "count": 8,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5371,7 +5109,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 13
           },
           {
             "age": 1,
@@ -5385,7 +5123,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 3,
@@ -5399,14 +5137,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -5431,7 +5169,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 11
           },
           {
             "age": 1,
@@ -5445,7 +5183,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -5457,18 +5195,14 @@
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -5495,28 +5229,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 13
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 7
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -5528,7 +5262,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5553,30 +5289,19 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 8
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
           },
           {
             "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
             "state": {
               "kind": "available",
               "count": 1,
@@ -5585,17 +5310,26 @@
             "waitlistCount": 0
           },
           {
-            "age": 4,
+            "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 2,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5623,21 +5357,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 17
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -5688,9 +5422,7 @@
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5704,16 +5436,16 @@
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5747,14 +5479,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 23
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 13
           },
           {
             "age": 2,
@@ -5768,14 +5500,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 5,
@@ -5807,21 +5539,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5836,7 +5568,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 4,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5845,7 +5577,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 6,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5873,44 +5605,42 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 14
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 20
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -5935,7 +5665,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 31
           },
           {
             "age": 1,
@@ -5961,16 +5691,16 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 8,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -5997,28 +5727,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 23
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 15
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -6030,9 +5760,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -6059,21 +5787,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 27
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 17
+            "waitlistCount": 22
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 3
           },
           {
             "age": 3,
@@ -6085,7 +5813,9 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -6096,7 +5826,7 @@
               "count": 5,
               "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -6119,46 +5849,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 6
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 11
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 10
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -6183,44 +5911,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 10
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 11
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 12
+            "waitlistCount": 4
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -6245,21 +5973,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 15
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6273,15 +6001,17 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 6,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -6309,7 +6039,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 1,
@@ -6367,25 +6097,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -6431,21 +6161,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 7
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -6489,25 +6219,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -6551,23 +6281,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -6615,21 +6345,19 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -6667,7 +6395,7 @@
         ]
       },
       "properties": {
-        "name": "キッズルームアリス高柳保育園",
+        "name": "キッズルームアリス高柳",
         "category": "smallScale",
         "supportsStationPickup": false,
         "address": "千葉県柏市高柳1498-1",
@@ -6675,25 +6403,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6737,18 +6463,14 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -6788,93 +6510,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          0.0
+          140.00325,
+          35.843163
         ]
       },
       "properties": {
-        "name": "チャイルドホーム柏",
+        "name": "フェアリーガーデン",
         "category": "smallScale",
         "supportsStationPickup": false,
-        "address": "",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.968567,
-          35.864803
-        ]
-      },
-      "properties": {
-        "name": "保育ルームフェリーチェ柏園",
-        "category": "smallScale",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市明原2-6-5",
+        "address": "千葉県柏市大津ヶ丘1-44",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -6929,21 +6585,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 7
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 13
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6989,14 +6645,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 7
           },
           {
             "age": 2,
@@ -7049,14 +6705,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 9
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 4
           },
           {
             "age": 2,
@@ -7107,16 +6763,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -7169,18 +6825,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -7231,25 +6885,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 14
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -7295,19 +6947,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -7355,83 +7009,23 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 10
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.956146,
-          35.858479
-        ]
-      },
-      "properties": {
-        "name": "豊四季みんなの保育園",
-        "category": "smallScale",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市旭町7-4-58",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
               "kind": "available",
-              "count": 2,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
           },
           {
             "age": 3,
@@ -7477,14 +7071,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,

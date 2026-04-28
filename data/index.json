@@ -1,0 +1,75 @@
+{
+  "latest": "202605.geojson",
+  "months": [
+    {
+      "yearMonth": "202605",
+      "label": "令和8年度5月状況",
+      "file": "202605.geojson"
+    },
+    {
+      "yearMonth": "202604",
+      "label": "令和8年度4月状況",
+      "file": "202604.geojson"
+    },
+    {
+      "yearMonth": "202512",
+      "label": "令和7年度12月状況",
+      "file": "202512.geojson"
+    },
+    {
+      "yearMonth": "202511",
+      "label": "令和7年度11月状況",
+      "file": "202511.geojson"
+    },
+    {
+      "yearMonth": "202510",
+      "label": "令和7年度10月状況",
+      "file": "202510.geojson"
+    },
+    {
+      "yearMonth": "202509",
+      "label": "令和7年度9月状況",
+      "file": "202509.geojson"
+    },
+    {
+      "yearMonth": "202508",
+      "label": "令和7年度8月状況",
+      "file": "202508.geojson"
+    },
+    {
+      "yearMonth": "202507",
+      "label": "令和7年度7月状況",
+      "file": "202507.geojson"
+    },
+    {
+      "yearMonth": "202506",
+      "label": "令和7年度6月状況",
+      "file": "202506.geojson"
+    },
+    {
+      "yearMonth": "202505",
+      "label": "令和7年度5月状況",
+      "file": "202505.geojson"
+    },
+    {
+      "yearMonth": "202504",
+      "label": "令和7年度4月状況",
+      "file": "202504.geojson"
+    },
+    {
+      "yearMonth": "202503",
+      "label": "令和7年度3月状況",
+      "file": "202503.geojson"
+    },
+    {
+      "yearMonth": "202502",
+      "label": "令和7年度2月状況",
+      "file": "202502.geojson"
+    },
+    {
+      "yearMonth": "202501",
+      "label": "令和7年度1月状況",
+      "file": "202501.geojson"
+    }
+  ]
+}

@@ -1,12 +1,880 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "updatedAt": "2026-05",
-    "listTitle": "令和8年度5月状況",
-    "pdfURL": "https://www.city.kashiwa.lg.jp/documents/468/aki0805.pdf",
-    "generatedAt": "2026-04-28T13:53:57.715101+09:00"
+    "updatedAt": "2025-04",
+    "listTitle": "令和7年度4月状況",
+    "pdfURL": "https://www.city.kashiwa.lg.jp/documents/468/aki07042.pdf",
+    "generatedAt": "2026-04-28T13:53:48.600962+09:00"
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963501,
+          35.886028
+        ]
+      },
+      "properties": {
+        "name": "きたかしわ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二287-61",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 10,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.961823,
+          35.910542
+        ]
+      },
+      "properties": {
+        "name": "くになか よし こど",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室3丁目15-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.954956,
+          35.868622
+        ]
+      },
+      "properties": {
+        "name": "くるみこども園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季台1丁目1-113",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.947693,
+          35.89146
+        ]
+      },
+      "properties": {
+        "name": "こばとこどもえん ネスト",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市中十余二207-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964615,
+          35.902344
+        ]
+      },
+      "properties": {
+        "name": "たなか幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市大室1263",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.98645,
+          35.88113
+        ]
+      },
+      "properties": {
+        "name": "とみせ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市根戸351-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950012,
+          35.885395
+        ]
+      },
+      "properties": {
+        "name": "の葉はぐ くみ こど",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二370-84",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.976868,
+          35.885696
+        ]
+      },
+      "properties": {
+        "name": "まつがさきの森幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市松ヶ崎225-3",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.966064,
+          35.889618
+        ]
+      },
+      "properties": {
+        "name": "まつばようちえん",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市松葉町5-8",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.969269,
+          35.861034
+        ]
+      },
+      "properties": {
+        "name": "みくに学園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市旭町1丁目6-14",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 10
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.99971,
+          35.890934
+        ]
+      },
+      "properties": {
+        "name": "も柏ひがし幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市布施新町1丁目5-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.980789,
+          35.854118
+        ]
+      },
+      "properties": {
+        "name": "ホザナ幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東3丁目2-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960663,
+          35.842854
+        ]
+      },
+      "properties": {
+        "name": "園くりの木幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季633-15",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 4
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.981155,
+          35.803566
+        ]
+      },
+      "properties": {
+        "name": "晴山幼稚園",
+        "category": "certified",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台4-1-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 12
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -36,20 +904,20 @@
             "state": {
               "kind": "flexible"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 8,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -57,18 +925,18 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 8,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -93,14 +961,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 4
           },
           {
             "age": 2,
@@ -114,14 +982,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -129,70 +997,6 @@
               "kind": "unavailable"
             },
             "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.950012,
-          35.885395
-        ]
-      },
-      "properties": {
-        "name": "柏の葉はぐくみこども園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市十余二370-84",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
           }
         ]
       }
@@ -217,883 +1021,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 17
+            "waitlistCount": 16
           },
           {
             "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 20
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.00325,
-          35.843163
-        ]
-      },
-      "properties": {
-        "name": "認定こども園おおつがおかようちえん",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大津ヶ丘1-44",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.963501,
-          35.886028
-        ]
-      },
-      "properties": {
-        "name": "認定こども園きたかしわ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市十余二287-61",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.954956,
-          35.868622
-        ]
-      },
-      "properties": {
-        "name": "認定こども園くるみこども園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市豊四季台1丁目1-113",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 9
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.964615,
-          35.902344
-        ]
-      },
-      "properties": {
-        "name": "認定こども園たなか幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大室1263",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.98645,
-          35.88113
-        ]
-      },
-      "properties": {
-        "name": "認定こども園とみせ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市根戸351-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.976868,
-          35.885696
-        ]
-      },
-      "properties": {
-        "name": "認定こども園まつがさきの森幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市松ヶ崎225-3",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.966064,
-          35.889618
-        ]
-      },
-      "properties": {
-        "name": "認定こども園まつばようちえん",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市松葉町5-8",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.961823,
-          35.910542
-        ]
-      },
-      "properties": {
-        "name": "認定こども園みくになかよしこども園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市大室3丁目15-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.969269,
-          35.861034
-        ]
-      },
-      "properties": {
-        "name": "認定こども園みくに学園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市旭町1丁目6-14",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 8
-          },
-          {
-            "age": 2,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 7
           },
           {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 8
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.980789,
-          35.854118
-        ]
-      },
-      "properties": {
-        "name": "認定こども園ホザナ幼稚園",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市東3丁目2-5",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.984436,
-          35.85487
-        ]
-      },
-      "properties": {
-        "name": "認定こども園吉田幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市弥生町4-6",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "available",
-              "count": 9,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 11,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 11,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 8,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.018005,
-          35.846817
-        ]
-      },
-      "properties": {
-        "name": "認定こども園手賀の丘幼稚園・保育園",
-        "category": "certified",
-        "supportsStationPickup": true,
-        "address": "千葉県柏市五條谷423-5",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.981155,
-          35.803566
-        ]
-      },
-      "properties": {
-        "name": "認定こども園晴山幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市しいの木台4-1-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.99971,
-          35.890934
-        ]
-      },
-      "properties": {
-        "name": "認定こども園柏ひがし幼稚園",
-        "category": "certified",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市布施新町1丁目5-10",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
+            "waitlistCount": 10
           },
           {
             "age": 3,
@@ -1129,7 +1071,7 @@
         ]
       },
       "properties": {
-        "name": "認定こども園柏めぐみ園",
+        "name": "柏めぐみ園",
         "category": "certified",
         "supportsStationPickup": false,
         "address": "千葉県柏市若葉町7丁目17",
@@ -1146,17 +1088,10 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 7
           },
           {
             "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 3,
             "state": {
               "kind": "available",
               "count": 1,
@@ -1165,18 +1100,25 @@
             "waitlistCount": 0
           },
           {
-            "age": 4,
+            "age": 3,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
-            "age": 5,
+            "age": 4,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
           }
         ]
       }
@@ -1191,7 +1133,7 @@
         ]
       },
       "properties": {
-        "name": "認定こども園第二ますお幼稚園",
+        "name": "第二ますお幼稚園",
         "category": "certified",
         "supportsStationPickup": false,
         "address": "千葉県柏市増尾台4-6-60",
@@ -1201,42 +1143,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 12
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 4
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 7
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           }
         ]
       }
@@ -1251,7 +1195,7 @@
         ]
       },
       "properties": {
-        "name": "認定こども園豊四季幼稚園",
+        "name": "豊四季幼稚園",
         "category": "certified",
         "supportsStationPickup": false,
         "address": "千葉県柏市旭町7-4-58",
@@ -1261,7 +1205,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -1273,9 +1217,9 @@
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -1297,6 +1241,68 @@
               "kind": "unavailable"
             },
             "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.018005,
+          35.846817
+        ]
+      },
+      "properties": {
+        "name": "賀の丘幼 稚園 ・保",
+        "category": "certified",
+        "supportsStationPickup": true,
+        "address": "千葉県柏市五條谷423-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
           }
         ]
       }
@@ -1311,7 +1317,7 @@
         ]
       },
       "properties": {
-        "name": "AIAI NURSERY 新柏",
+        "name": "AIAI NURSERY",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
         "address": "千葉県柏市豊住1-3-27",
@@ -1321,7 +1327,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -1335,14 +1341,74 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 10
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
             "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963608,
+          35.841431
+        ]
+      },
+      "properties": {
+        "name": "AIAI NURSERY",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊住1-3-27",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -1366,22 +1432,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.959717,
-          35.914139
+          139.963608,
+          35.841431
         ]
       },
       "properties": {
-        "name": "AIAI NURSERY 柏たなか",
+        "name": "AIAI NURSERY",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
-        "address": "千葉県柏市小青田5-8-3",
+        "address": "千葉県柏市豊住1-3-27",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1397,7 +1461,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -1409,14 +1473,16 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -1428,48 +1494,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.968597,
-          35.839211
+          139.963608,
+          35.841431
         ]
       },
       "properties": {
-        "name": "AIAI NURSERY 第二新柏",
+        "name": "AIAI NURSERY",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
-        "address": "千葉県柏市新柏1丁目1810-5",
+        "address": "千葉県柏市豊住1-3-27",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1488,15 +1554,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.94754,
-          35.861713
+          139.963608,
+          35.841431
         ]
       },
       "properties": {
-        "name": "AIAI NURSERY 豊四季",
+        "name": "AIAI NURSERY",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
-        "address": "千葉県柏市豊四季301-89",
+        "address": "千葉県柏市豊住1-3-27",
         "ageAvailabilities": [
           {
             "age": 0,
@@ -1505,88 +1571,28 @@
               "count": 1,
               "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 2
           },
           {
-            "age": 5,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.001144,
-          35.808697
-        ]
-      },
-      "properties": {
-        "name": "AIAI NURSERY 高柳",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市高柳1493-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 9
-          },
-          {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 4
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -1615,7 +1621,7 @@
         ]
       },
       "properties": {
-        "name": "Gakkenほいくえん柏の葉",
+        "name": "Gakken",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
         "address": "千葉県柏市若柴227-6",
@@ -1624,7 +1630,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 3,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1632,9 +1638,7 @@
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -1643,14 +1647,12 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1658,7 +1660,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 5,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1667,7 +1669,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 6,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1685,7 +1687,7 @@
         ]
       },
       "properties": {
-        "name": "LIFE SCHOOL 柏の葉菜",
+        "name": "LIFE SCHOOL",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
         "address": "千葉県柏市十余二287-308",
@@ -1694,7 +1696,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1703,7 +1705,7 @@
             "age": 1,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 6,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1711,7 +1713,7 @@
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -1719,7 +1721,7 @@
             "age": 3,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 2,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1728,7 +1730,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 4,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1737,7 +1739,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 12,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -1755,7 +1757,7 @@
         ]
       },
       "properties": {
-        "name": "TXかしわこころ保育園",
+        "name": "Xかしわ ここ ろ保",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
         "address": "千葉県柏市船戸3-1-1",
@@ -1764,7 +1766,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 7,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -1781,7 +1783,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -1800,7 +1802,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -1825,44 +1829,46 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -1887,7 +1893,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -1896,33 +1904,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 0
           },
           {
             "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 1
           },
           {
-            "age": 5,
+            "age": 3,
             "state": {
               "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
             },
             "waitlistCount": 0
           }
@@ -1949,33 +1959,33 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 13
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 12
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -2017,7 +2027,7 @@
             "age": 1,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 9,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2026,7 +2036,7 @@
             "age": 2,
             "state": {
               "kind": "available",
-              "count": 10,
+              "count": 1,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2034,15 +2044,17 @@
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 6,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 3,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2051,7 +2063,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 1,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2077,9 +2089,7 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -2095,26 +2105,30 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 8
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -2140,7 +2154,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 2,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -2150,28 +2164,30 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
             "waitlistCount": 0
           },
           {
-            "age": 3,
+            "age": 2,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 1
           },
           {
-            "age": 4,
+            "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
+            },
+            "waitlistCount": 1
           },
           {
             "age": 5,
@@ -2204,10 +2220,10 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 8,
+              "count": 6,
               "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -2221,14 +2237,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -2265,7 +2281,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
@@ -2274,30 +2292,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 9
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
@@ -2328,10 +2344,10 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 4,
               "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -2343,14 +2359,14 @@
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -2366,136 +2382,6 @@
             "state": {
               "kind": "available",
               "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.950867,
-          35.890732
-        ]
-      },
-      "properties": {
-        "name": "かしわのはこころ保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市若柴280-10",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.98645,
-          35.88113
-        ]
-      },
-      "properties": {
-        "name": "きたかしわこころ保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市根戸1298番地4",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "available",
-              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -2523,14 +2409,16 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 7
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -2556,7 +2444,71 @@
           {
             "age": 5,
             "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950867,
+          35.890732
+        ]
+      },
+      "properties": {
+        "name": "しわのは ここ ろ保",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市若柴280-10",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
               "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -2581,42 +2533,42 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -2642,7 +2594,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 9,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -2657,16 +2609,14 @@
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -2680,7 +2630,69 @@
           {
             "age": 5,
             "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.939255,
+          35.867054
+        ]
+      },
+      "properties": {
+        "name": "なびの森 保育 園豊",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市豊四季185-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
               "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -2706,7 +2718,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 9,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -2716,7 +2728,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -2728,14 +2740,14 @@
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -2769,7 +2781,7 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 1
           },
@@ -2778,33 +2790,33 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -2829,18 +2841,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -2859,66 +2869,6 @@
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.939255,
-          35.867054
-        ]
-      },
-      "properties": {
-        "name": "まなびの森保育園豊四季",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市豊四季185-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 3
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
               "kind": "closed"
             },
             "waitlistCount": 0
@@ -2928,7 +2878,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -2951,46 +2901,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3016,7 +2964,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 7,
+              "count": 6,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -3026,21 +2974,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 8
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -3052,7 +3000,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3077,25 +3025,23 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -3141,19 +3087,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -3200,7 +3148,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 3,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -3210,37 +3158,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
           },
           {
             "age": 2,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
             "state": {
               "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
-            "age": 5,
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 2,
               "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3252,38 +3198,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.950012,
-          35.885395
+          139.980453,
+          35.846519
         ]
       },
       "properties": {
-        "name": "オハナゆめ保育園柏の葉",
+        "name": "ィヴァン 亀甲 台保",
         "category": "privateAuthorized",
         "supportsStationPickup": false,
-        "address": "千葉県柏市十余二348-130",
+        "address": "千葉県柏市亀甲台町2丁目13-12",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -3295,9 +3239,9 @@
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 5,
@@ -3327,7 +3271,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
@@ -3336,35 +3282,35 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -3390,10 +3336,10 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 7,
               "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -3405,9 +3351,11 @@
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 7,
+              "isFlexible": false
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -3451,30 +3399,92 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 13
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "flexible"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.950012,
+          35.885395
+        ]
+      },
+      "properties": {
+        "name": "ハナゆめ 保育 園柏",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市十余二348-130",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -3486,9 +3496,11 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 5,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -3522,12 +3534,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -3573,7 +3587,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
@@ -3582,12 +3598,12 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 7
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -3603,66 +3619,6 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.980453,
-          35.846519
-        ]
-      },
-      "properties": {
-        "name": "ヴィヴァン亀甲台保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市亀甲台町2丁目13-12",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "flexible"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
               "kind": "flexible"
             },
             "waitlistCount": 0
@@ -3670,7 +3626,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -3695,35 +3651,37 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 7,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 13
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -3733,6 +3691,66 @@
               "kind": "closed"
             },
             "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.964767,
+          35.832417
+        ]
+      },
+      "properties": {
+        "name": "保柏みどり保育園",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市東中新宿3丁目23-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 17
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
           }
         ]
       }
@@ -3779,90 +3797,28 @@
             "age": 3,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 4,
               "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
             "state": {
               "kind": "available",
               "count": 2,
-              "isFlexible": true
-            },
-            "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.987747,
-          35.874538
-        ]
-      },
-      "properties": {
-        "name": "北柏駅前保育園わらび",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市北柏3丁目2-5",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "available",
-              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
             "age": 5,
             "state": {
-              "kind": "unavailable"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
-            "waitlistCount": null
+            "waitlistCount": 0
           }
         ]
       }
@@ -3885,7 +3841,7 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -3894,33 +3850,33 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 7
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -3946,29 +3902,29 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 8,
               "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 9
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 9
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -3982,7 +3938,7 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4014,9 +3970,11 @@
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -4030,21 +3988,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 5,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4068,7 +4026,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 6,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -4078,14 +4036,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 4
           },
           {
             "age": 3,
@@ -4104,11 +4062,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           }
         ]
       }
@@ -4131,35 +4087,37 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 5
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 20
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -4191,42 +4149,44 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 11
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           }
@@ -4251,30 +4211,30 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 6
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 21
+            "waitlistCount": 16
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 12
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 4,
@@ -4286,9 +4246,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4312,26 +4272,26 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 6,
+              "count": 8,
               "isFlexible": true
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 6
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
             },
             "waitlistCount": 1
           },
           {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
             "age": 3,
             "state": {
               "kind": "closed"
@@ -4341,78 +4301,16 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.964767,
-          35.832417
-        ]
-      },
-      "properties": {
-        "name": "柏みどり保育園",
-        "category": "privateAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市東中新宿3丁目23-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 19
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 13
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
           }
         ]
       }
@@ -4435,35 +4333,37 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 13
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4471,10 +4371,10 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 5,
-              "isFlexible": true
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4497,9 +4397,11 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -4513,7 +4415,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -4559,28 +4461,28 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 19
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -4592,9 +4494,69 @@
           {
             "age": 5,
             "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.987747,
+          35.874538
+        ]
+      },
+      "properties": {
+        "name": "立北柏駅前保育園わらび",
+        "category": "privateAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市北柏3丁目2-5",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
               "kind": "flexible"
             },
             "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
           }
         ]
       }
@@ -4617,7 +4579,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4626,7 +4590,7 @@
             "state": {
               "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -4645,16 +4609,16 @@
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -4679,23 +4643,21 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": true
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "flexible"
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -4704,14 +4666,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -4742,24 +4704,24 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 4,
-              "isFlexible": true
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4807,7 +4769,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -4821,21 +4783,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 1
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -4865,35 +4827,41 @@
           {
             "age": 0,
             "state": {
-              "kind": "flexible"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": true
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4902,7 +4870,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -4925,16 +4893,16 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -4956,7 +4924,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 6,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -4991,7 +4959,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -5010,23 +4978,25 @@
           {
             "age": 3,
             "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5051,16 +5021,84 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 2
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.960297,
+          35.820358
+        ]
+      },
+      "properties": {
+        "name": "園酒井根保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市酒井根4丁目10-33",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 7
           },
           {
             "age": 2,
@@ -5072,15 +5110,17 @@
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5088,7 +5128,9 @@
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5115,44 +5157,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 16
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 11
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 4,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -5177,35 +5219,37 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 14
+            "waitlistCount": 11
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -5242,21 +5286,12 @@
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
             "state": {
               "kind": "available",
               "count": 1,
@@ -5265,17 +5300,26 @@
             "waitlistCount": 0
           },
           {
-            "age": 4,
+            "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 4,
+              "count": 10,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5301,16 +5345,18 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 2,
@@ -5319,13 +5365,13 @@
               "count": 1,
               "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 2,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5334,7 +5380,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 8,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5343,7 +5389,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 6,
+              "count": 9,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5371,40 +5417,44 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5431,35 +5481,33 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 8
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 3
           },
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5495,7 +5543,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -5514,7 +5562,9 @@
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -5523,12 +5573,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
             "waitlistCount": 0
           }
@@ -5554,7 +5606,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 3,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5564,19 +5616,24 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 6,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 4,
             "state": {
               "kind": "available",
               "count": 1,
@@ -5585,17 +5642,10 @@
             "waitlistCount": 0
           },
           {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5621,9 +5671,11 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -5637,7 +5689,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
@@ -5651,7 +5703,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 5,
@@ -5688,9 +5740,7 @@
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5699,12 +5749,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -5712,7 +5764,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5747,21 +5799,21 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 10
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -5805,23 +5857,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 6,
+              "isFlexible": false
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5836,7 +5890,7 @@
             "age": 4,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 5,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5845,7 +5899,7 @@
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 8,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -5871,23 +5925,25 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 18
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -5899,9 +5955,7 @@
           {
             "age": 4,
             "state": {
-              "kind": "available",
-              "count": 3,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -5910,7 +5964,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           }
         ]
       }
@@ -5935,42 +5989,46 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 9
+            "waitlistCount": 3
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 5
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 4,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 5,
             "state": {
-              "kind": "available",
-              "count": 8,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           }
@@ -6004,14 +6062,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 5
+            "waitlistCount": 9
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 6
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6019,6 +6077,128 @@
               "kind": "closed"
             },
             "waitlistCount": 1
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.000992,
+          35.807087
+        ]
+      },
+      "properties": {
+        "name": "高柳保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市高柳1503-9",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 5
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 1
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983536,
+          35.80621
+        ]
+      },
+      "properties": {
+        "name": "高柳西保育園",
+        "category": "publicAuthorized",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市しいの木台5丁目31-2",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 11
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
           },
           {
             "age": 4,
@@ -6044,192 +6224,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.960297,
-          35.820358
-        ]
-      },
-      "properties": {
-        "name": "酒井根保育園",
-        "category": "publicAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市酒井根4丁目10-33",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 17
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 14
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 2
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
-            "waitlistCount": 1
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.000992,
-          35.807087
-        ]
-      },
-      "properties": {
-        "name": "高柳保育園",
-        "category": "publicAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市高柳1503-9",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 7
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 10
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.983536,
-          35.80621
-        ]
-      },
-      "properties": {
-        "name": "高柳西保育園",
-        "category": "publicAuthorized",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市しいの木台5丁目31-2",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 6
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 12
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "available",
-              "count": 1,
-              "isFlexible": false
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.985291,
           35.882328
         ]
@@ -6243,45 +6237,47 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 3
+            "waitlistCount": 1
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
             "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 2
+          },
+          {
+            "age": 4,
+            "state": {
               "kind": "available",
-              "count": 1,
+              "count": 9,
               "isFlexible": false
             },
             "waitlistCount": 0
           },
           {
-            "age": 4,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 1
-          },
-          {
             "age": 5,
             "state": {
               "kind": "available",
-              "count": 6,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -6309,7 +6305,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 1,
@@ -6368,24 +6364,26 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 4,
               "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6431,68 +6429,6 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.95723,
-          35.847111
-        ]
-      },
-      "properties": {
-        "name": "アルタベビー南柏園",
-        "category": "smallScale",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市豊町1-1-12",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
-            },
             "waitlistCount": 0
           },
           {
@@ -6500,7 +6436,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 8
           },
           {
             "age": 2,
@@ -6552,7 +6488,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 1,
+              "count": 3,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -6562,12 +6498,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 4
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -6613,68 +6551,6 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": true
-            },
-            "waitlistCount": 0
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.000992,
-          35.807087
-        ]
-      },
-      "properties": {
-        "name": "キッズルームアリス高柳保育園",
-        "category": "smallScale",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市高柳1498-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
               "kind": "available",
               "count": 1,
               "isFlexible": false
@@ -6684,16 +6560,18 @@
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": true
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 4
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6738,7 +6616,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 5,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -6747,8 +6625,8 @@
             "age": 1,
             "state": {
               "kind": "available",
-              "count": 2,
-              "isFlexible": true
+              "count": 1,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -6788,21 +6666,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          0.0
+          140.000992,
+          35.807087
         ]
       },
       "properties": {
-        "name": "チャイルドホーム柏",
+        "name": "ッズルー ムア リス",
         "category": "smallScale",
         "supportsStationPickup": false,
-        "address": "",
+        "address": "千葉県柏市高柳1498-1",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 2,
+              "count": 1,
               "isFlexible": false
             },
             "waitlistCount": 0
@@ -6810,18 +6688,14 @@
           {
             "age": 1,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
-              "kind": "available",
-              "count": 5,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
@@ -6854,20 +6728,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.968567,
-          35.864803
+          139.95723,
+          35.847111
         ]
       },
       "properties": {
-        "name": "保育ルームフェリーチェ柏園",
+        "name": "保アルタベビー南柏園",
         "category": "smallScale",
         "supportsStationPickup": false,
-        "address": "千葉県柏市明原2-6-5",
+        "address": "千葉県柏市豊町1-1-12",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 5,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -6876,14 +6752,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 2,
             "state": {
-              "kind": "unavailable"
+              "kind": "flexible"
             },
-            "waitlistCount": null
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -6929,66 +6805,6 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 2
-          },
-          {
-            "age": 1,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 4
-          },
-          {
-            "age": 2,
-            "state": {
-              "kind": "closed"
-            },
-            "waitlistCount": 5
-          },
-          {
-            "age": 3,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 4,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          },
-          {
-            "age": 5,
-            "state": {
-              "kind": "unavailable"
-            },
-            "waitlistCount": null
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.987381,
-          35.875084
-        ]
-      },
-      "properties": {
-        "name": "北柏小規模保育園わらび",
-        "category": "smallScale",
-        "supportsStationPickup": false,
-        "address": "千葉県柏市北柏1丁目1-1",
-        "ageAvailabilities": [
-          {
-            "age": 0,
-            "state": {
-              "kind": "closed"
-            },
             "waitlistCount": 0
           },
           {
@@ -6996,14 +6812,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
-              "kind": "unavailable"
+              "kind": "closed"
             },
-            "waitlistCount": null
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -7049,14 +6865,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 7
+            "waitlistCount": 9
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 8
+            "waitlistCount": 2
           },
           {
             "age": 2,
@@ -7116,7 +6932,9 @@
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -7170,7 +6988,7 @@
             "age": 0,
             "state": {
               "kind": "available",
-              "count": 3,
+              "count": 2,
               "isFlexible": true
             },
             "waitlistCount": 0
@@ -7178,16 +6996,18 @@
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
-            "waitlistCount": 2
+            "waitlistCount": 0
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 3,
@@ -7231,18 +7051,18 @@
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 1
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": true
             },
-            "waitlistCount": 3
+            "waitlistCount": 0
           },
           {
             "age": 2,
@@ -7293,23 +7113,89 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 1,
+              "isFlexible": false
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 5
           },
           {
             "age": 2,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 2,
+              "isFlexible": false
             },
             "waitlistCount": 0
+          },
+          {
+            "age": 3,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 4,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          },
+          {
+            "age": 5,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.987381,
+          35.875084
+        ]
+      },
+      "properties": {
+        "name": "柏小規模 保育 園わ",
+        "category": "smallScale",
+        "supportsStationPickup": false,
+        "address": "千葉県柏市北柏1丁目1-1",
+        "ageAvailabilities": [
+          {
+            "age": 0,
+            "state": {
+              "kind": "available",
+              "count": 3,
+              "isFlexible": false
+            },
+            "waitlistCount": 0
+          },
+          {
+            "age": 1,
+            "state": {
+              "kind": "closed"
+            },
+            "waitlistCount": 3
+          },
+          {
+            "age": 2,
+            "state": {
+              "kind": "unavailable"
+            },
+            "waitlistCount": null
           },
           {
             "age": 3,
@@ -7353,7 +7239,9 @@
           {
             "age": 0,
             "state": {
-              "kind": "closed"
+              "kind": "available",
+              "count": 4,
+              "isFlexible": false
             },
             "waitlistCount": 0
           },
@@ -7362,14 +7250,14 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 6
           },
           {
             "age": 2,
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 1
+            "waitlistCount": 0
           },
           {
             "age": 3,
@@ -7400,29 +7288,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.956146,
-          35.858479
+          140.00325,
+          35.843163
         ]
       },
       "properties": {
-        "name": "豊四季みんなの保育園",
+        "name": "規フェアリーガーデン",
         "category": "smallScale",
         "supportsStationPickup": false,
-        "address": "千葉県柏市旭町7-4-58",
+        "address": "千葉県柏市大津ヶ丘1-44",
         "ageAvailabilities": [
           {
             "age": 0,
             "state": {
-              "kind": "available",
-              "count": 2,
-              "isFlexible": false
+              "kind": "closed"
             },
             "waitlistCount": 0
           },
           {
             "age": 1,
             "state": {
-              "kind": "closed"
+              "kind": "flexible"
             },
             "waitlistCount": 0
           },
@@ -7477,7 +7363,7 @@
             "state": {
               "kind": "closed"
             },
-            "waitlistCount": 0
+            "waitlistCount": 2
           },
           {
             "age": 1,
