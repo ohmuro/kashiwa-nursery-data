@@ -1,6 +1,11 @@
 {
-  "latest": "202605.geojson",
+  "latest": "202610.geojson",
   "months": [
+    {
+      "yearMonth": "202610",
+      "label": "令和8年度10月状況",
+      "file": "202610.geojson"
+    },
     {
       "yearMonth": "202605",
       "label": "令和8年度5月状況",
